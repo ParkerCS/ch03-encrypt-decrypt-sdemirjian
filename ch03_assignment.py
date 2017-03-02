@@ -9,7 +9,7 @@ encrypted_message = "¿®ªªÈÙ®ÏT¤ÕEÓ¹âeCíÉÁÏº¢¡i¸
 
 import decode
 import encryption_key
-
+ 
 print("The encrypted message is:", decode.decode(encryption_key.key,encrypted_message))
 print()
 #2 Encrypt your name and print the encrypted result.  Make the result print in a friendly format that is easy for the user to understand. (5pt)
